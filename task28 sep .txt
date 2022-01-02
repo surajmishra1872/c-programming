@@ -1,0 +1,5 @@
+//wap to find multilpication of all number that is divisible ny 3 and 5 within a given series
+//wap to find multiplication of all numbers where last digit of number is 3 withing 1 to n.
+//wap to find multiplication of all number where last digits of number
+// is divisible by 2 withing 1 to n 
+
